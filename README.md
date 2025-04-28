@@ -35,11 +35,11 @@ Unit Test Code Explanation:
 
 Step to Run the Unit Test:
                        
-        ExternalUserServiceTests.cs -> Mock<IConfiguration> _configMock -> Mention the base Url.
+        Open File -> ExternalUserServiceTests.cs -> Mock<IConfiguration> _configMock -> Mention the base Url.
         GetUserById_ReturnsCorrectUser() pass the single payload to test.
         GetAllUsers_ReturnsPagedList() pass the list payload to test the list with pagination.
 
-        Menu Bar -> Test -> Configuration Run Setting -> Select Solution Wide run setting file 
-
+        Go to -> Test -> Configuration Run Setting -> Select Solution Wide run setting file 
         -> Select "ExternalUserServiceTests.cs".
-        Menu Bar -> Test -> Run All Test based on the It shows the success result.  
+
+        Again go  to -> Test -> Run All Test based on that It shows the success result.  
