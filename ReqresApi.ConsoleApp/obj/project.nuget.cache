@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "p9JrHQjZWCVdJxdfmC608jFaDIxs75ypciY5EXAmArq8TndDCvAP/b5KJu4jD5BWohUyqSa1KXm7NyjHCh9O/g==",
-  "success": false,
+  "dgSpecHash": "EkC7+O85qIn9MpwE+0yAvHXA9DDcJVM002kvoe4AoKWcadk0wlgEJ0R2JFrGTI9AfvrO3fgqkcsbAfAYAQu2aQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\NUFIAL AHMED\\Documents\\external-service\\ReqresApi.ConsoleApp\\ReqresApi.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.2\\microsoft.extensions.configuration.6.0.2.nupkg.sha512",
@@ -35,15 +35,5 @@
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\system.text.json\\6.0.11\\system.text.json.6.0.11.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\NUFIAL AHMED\\Documents\\external-service\\TestAssignment\\ReqresApi.Client.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\NUFIAL AHMED\\Documents\\external-service\\TestAssignment\\ReqresApi.Client.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

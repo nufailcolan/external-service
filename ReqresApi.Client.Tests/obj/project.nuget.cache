@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "fRSfvN1qVpdMv62MMYWNGCum7VvR4BaPEQ2fxnsc0h5uX8LG972yfXGD/iYfImPgbzR15FnpVpAEDyXzgHqv2g==",
-  "success": false,
+  "dgSpecHash": "QeMWRETNa+SmGxjQPbdW5vbkgH+8+GL6zCEUaAzjcwLzEPX+2AhwOo8guMF4rGD7VtD9UV7na5Exs4iknJIi7g==",
+  "success": true,
   "projectFilePath": "C:\\Users\\NUFIAL AHMED\\Documents\\external-service\\ReqresApi.Client.Tests\\ReqresApi.Client.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.1\\microsoft.extensions.configuration.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.2\\microsoft.extensions.dependencyinjection.6.0.2.nupkg.sha512",
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\microsoft.extensions.http\\6.0.1\\microsoft.extensions.http.6.0.1.nupkg.sha512",
@@ -110,15 +111,5 @@
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
     "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\NUFIAL AHMED\\Documents\\external-service\\TestAssignment\\ReqresApi.Client.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\NUFIAL AHMED\\Documents\\external-service\\TestAssignment\\ReqresApi.Client.csproj",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

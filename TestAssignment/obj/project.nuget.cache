@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pMcCOcryvftyuN5M6m2zFZzAYVC95TCqg5kU9JCQX3Gul7dGbcXs8yxfC6geXo/lfYOqn+bcskm1mziAZ67HSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NUFIAL AHMED\\Documents\\external-service\\TestAssignment\\ReqresApi.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.1\\microsoft.extensions.configuration.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512",
+    "C:\\Users\\NUFIAL AHMED\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.1\\microsoft.extensions.primitives.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

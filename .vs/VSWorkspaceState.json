@@ -1,9 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ReqresApi.Client.Tests",
-    "\\ReqresApi.ConsoleApp"
+    ""
   ],
-  "SelectedNode": "\\ReqresApi.ConsoleApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

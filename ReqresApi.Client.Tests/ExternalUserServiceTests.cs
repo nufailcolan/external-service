@@ -45,11 +45,6 @@ public class ExternalUserServiceTests
                 first_name = "Janet",
                 last_name = "Weaver",
                 avatar = "https://reqres.in/img/faces/2-image.jpg"
-            },
-            support = new
-            {
-                url = "https://contentcaddy.io?utm_source=reqres&utm_medium=json&utm_campaign=referral",
-                text = "Tired of writing endless social media content? Let Content Caddy generate it for you."
             }
         };
 
