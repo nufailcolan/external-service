@@ -1,0 +1,12 @@
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\bin\Debug\net6.0\ReqresApi.Client.deps.json
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\bin\Debug\net6.0\ReqresApi.Client.dll
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\bin\Debug\net6.0\ReqresApi.Client.pdb
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\obj\Debug\net6.0\ReqresApi.Client.csproj.AssemblyReference.cache
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\obj\Debug\net6.0\ReqresApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\obj\Debug\net6.0\ReqresApi.Client.AssemblyInfoInputs.cache
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\obj\Debug\net6.0\ReqresApi.Client.AssemblyInfo.cs
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\obj\Debug\net6.0\ReqresApi.Client.csproj.CoreCompileInputs.cache
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\obj\Debug\net6.0\ReqresApi.Client.dll
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\obj\Debug\net6.0\refint\ReqresApi.Client.dll
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\obj\Debug\net6.0\ReqresApi.Client.pdb
+C:\Users\NUFIAL AHMED\source\repos\TestAssignment\TestAssignment\obj\Debug\net6.0\ref\ReqresApi.Client.dll
